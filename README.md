@@ -1,2 +1,3 @@
 # team-collaboration
-The project done by a team to li
+The project done by a team to create leaderboards
+
